@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class PriceEsitmate 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5261529390148208219L;
+    private static final long serialVersionUID = 4793307125738021179L;
     private String currencyCode;
     private String displayName;
     private double distance;

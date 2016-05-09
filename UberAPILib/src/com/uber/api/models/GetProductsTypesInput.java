@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class GetProductsTypesInput 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5568205313425093208L;
+    private static final long serialVersionUID = 4991576371229882674L;
     private double latitude;
     private double longitude;
     /** GETTER

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class GetPromotionsInput 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5377083859207882283L;
+    private static final long serialVersionUID = 4966394229058088940L;
     private double startLatitude;
     private double startLongitude;
     private double endLatitude;

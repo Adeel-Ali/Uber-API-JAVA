@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class History 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5192813250351941829L;
+    private static final long serialVersionUID = 5651787447887703479L;
     private double distance;
     private Location endLocation;
     private int endTime;

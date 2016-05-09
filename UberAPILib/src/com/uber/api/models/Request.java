@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Request 
         extends ErrorBase {
-    private static final long serialVersionUID = 4713750703514036812L;
+    private static final long serialVersionUID = 4900742736656047702L;
     private LinkedHashMap<String, Object> driver;
     private int eta;
     private LinkedHashMap<String, Object> location;

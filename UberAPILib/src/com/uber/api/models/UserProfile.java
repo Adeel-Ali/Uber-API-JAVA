@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class UserProfile 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5022333327590045359L;
+    private static final long serialVersionUID = 5720889200458803273L;
     private String email;
     private String firstName;
     private String lastName;

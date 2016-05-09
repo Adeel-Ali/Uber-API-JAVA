@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Vehicle 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5047471161022740269L;
+    private static final long serialVersionUID = 5382489680813007182L;
     private String licensePlate;
     private String make;
     private String model;

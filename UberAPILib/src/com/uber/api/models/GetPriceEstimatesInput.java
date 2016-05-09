@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class GetPriceEstimatesInput 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5457212679761013723L;
+    private static final long serialVersionUID = 4908753711802571041L;
     private double startLatitude;
     private double startLongitude;
     private double endLatitude;

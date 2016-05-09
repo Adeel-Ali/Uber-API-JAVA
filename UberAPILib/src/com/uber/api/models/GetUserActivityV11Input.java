@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class GetUserActivityV11Input 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5508663418950363488L;
+    private static final long serialVersionUID = 5762166611113583154L;
     private int offset;
     private int limit;
     /** GETTER

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class RequestDetailsCollections 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5146655225125756073L;
+    private static final long serialVersionUID = 5629837016248214683L;
     private Driver driver;
     private int eta;
     private Location location;

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class RequestMapResponse 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5497640434218369472L;
+    private static final long serialVersionUID = 5304893721571659707L;
     private String href;
     private String requestId;
     /** GETTER

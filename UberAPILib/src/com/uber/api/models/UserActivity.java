@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class UserActivity 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5407993401227354484L;
+    private static final long serialVersionUID = 5678344612044920080L;
     private int count;
     private List<History> history;
     private int limit;

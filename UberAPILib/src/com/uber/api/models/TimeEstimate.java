@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class TimeEstimate 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4690757509337130225L;
+    private static final long serialVersionUID = 5460023249579169803L;
     private String displayName;
     private int estimate;
     private String productId;

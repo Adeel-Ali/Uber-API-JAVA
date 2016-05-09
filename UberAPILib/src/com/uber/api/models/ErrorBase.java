@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class ErrorBase 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5300587210323120826L;
+    private static final long serialVersionUID = 5056525503943819626L;
     private List<Errors> errors;
     private String meta;
     /** GETTER

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class PriceEstimateCollection 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4755813519586422824L;
+    private static final long serialVersionUID = 5519561021486107869L;
     private List<PriceEsitmate> prices;
     /** GETTER
      * List of price estimates

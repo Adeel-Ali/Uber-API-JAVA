@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Meta 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5303672084492929488L;
+    private static final long serialVersionUID = 5412053998734675053L;
     private SurgeConfirmation surgeConfirmation;
     /** GETTER
      * TODO: Write general description for this method

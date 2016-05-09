@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Driver 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4945334535766398038L;
+    private static final long serialVersionUID = 5501754058385564757L;
     private String name;
     private String phoneNumber;
     private String pictureUrl;

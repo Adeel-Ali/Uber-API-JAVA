@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class RequestBody 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5407380543359702049L;
+    private static final long serialVersionUID = 5726513757756577876L;
     private double endLatitude;
     private double endLongitude;
     private String productId;

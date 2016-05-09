@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class GetTimeEstimatesInput 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5360505941099256999L;
+    private static final long serialVersionUID = 5595966952260704394L;
     private double startLatitude;
     private double startLongitude;
     private String customerUuid;

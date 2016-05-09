@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class SurgeConfirmation 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5353284394094676589L;
+    private static final long serialVersionUID = 4658210693644428975L;
     private String href;
     private String surgeConfirmationId;
     /** GETTER
